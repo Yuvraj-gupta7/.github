@@ -32,7 +32,7 @@ So we hold entries to the standard of work you'd link from your own
 site. Plain-text one-liners, generic haikus, and copy-paste code won't make it
 in — not because they're "bad," but because they don't showcase you.
 
-Well-executed entries tend to look like:
+Well-executed entries tend to look like: hii
 
 - **Custom SVG art or a hero image** — inline, light/dark-aware, made by you
 - **A diagram that teaches something** — how 4-bit quantization preserves
