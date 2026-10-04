@@ -8,7 +8,7 @@ space we've set aside for the people building alongside us. The
 is where you can plant a flag, in whatever form feels like *you*, using
 anything we've built at **169pi** as your reference point — a model, a
 benchmark, a capability, a design decision.
-
+jh
 Looking to contribute code, weights, or benchmarks? Head to the model repo
 itself — currently [`169Pi/Alpie-Core`](https://github.com/169Pi/Alpie-Core).
 
